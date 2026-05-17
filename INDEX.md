@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-05-17** — Anthropic overtakes OpenAI in business adoption 34.4% vs 32.3%; GitHub MCP connector install guide → [entries/2026-05-17.md](entries/2026-05-17.md)
 - **2026-05-16** — Claude Code `/goal` ships unsupervised loops; Anthropic targets $900B valuation and $30B raise → [entries/2026-05-16.md](entries/2026-05-16.md)
 - **2026-05-12** — Claude Code Routines + Dreaming ship; Evals give prompt engineering a stopping condition → [entries/2026-05-12.md](entries/2026-05-12.md)
 - **2026-05-11** — Claude enters Microsoft 365 + Shopify; CooperBench proves multi-agent coordination 30% less reliable → [entries/2026-05-11.md](entries/2026-05-11.md)
