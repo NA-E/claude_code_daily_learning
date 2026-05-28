@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-05-28** — Anthropic $900B round confirmed; MCP goes mainstream across Robinhood, Resend, Runway in one day → [entries/2026-05-28.md](entries/2026-05-28.md)
 - **2026-05-19** — CLAUDE.md context foundation + LiteLLM AI gateway; Anthropic acquires Stainless; 1,035 AI Operator roles are 59% ops → [entries/2026-05-19.md](entries/2026-05-19.md)
 - **2026-05-18** — Anthropic engineer: HTML replaces Markdown; Mythos Preview leads AISI cyber benchmark → [entries/2026-05-18.md](entries/2026-05-18.md)
 - **2026-05-16** — Claude Code `/goal` ships unsupervised loops; Anthropic targets $900B valuation and $30B raise → [entries/2026-05-16.md](entries/2026-05-16.md)
