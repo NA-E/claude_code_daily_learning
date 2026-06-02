@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-06-02** — Anthropic files confidential S-1; Codex at 5M users; Goals Framework for unattended agent runs → [entries/2026-06-02.md](entries/2026-06-02.md)
 - **2026-05-30** — Opus 4.8 ships; Anthropic hits $965B; RePPIT production-code framework released → [entries/2026-05-30.md](entries/2026-05-30.md)
 - **2026-05-28** — Anthropic $900B round confirmed; MCP goes mainstream across Robinhood, Resend, Runway in one day → [entries/2026-05-28.md](entries/2026-05-28.md)
 - **2026-05-19** — CLAUDE.md context foundation + LiteLLM AI gateway; Anthropic acquires Stainless; 1,035 AI Operator roles are 59% ops → [entries/2026-05-19.md](entries/2026-05-19.md)
