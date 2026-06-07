@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-06-07** — Kun Chen's 40-PRs/day agentic engineering; Claude Code + Meta Ad Library Funnel Spy workflow → [entries/2026-06-07.md](entries/2026-06-07.md)
 - **2026-06-06** — Anthropic S-1 filed at $965B, $2.5B Claude Code run-rate; "Grill Me" skill solves context quality → [entries/2026-06-06.md](entries/2026-06-06.md)
 - **2026-06-05** — Claude authors 80% of Anthropic's production code; Grok Build 0.1 at $1/M launches → [entries/2026-06-05.md](entries/2026-06-05.md)
 - **2026-05-30** — Opus 4.8 ships; Anthropic hits $965B; RePPIT production-code framework released → [entries/2026-05-30.md](entries/2026-05-30.md)
