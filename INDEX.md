@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-06-10** — Claude Fable 5 (Mythos-class, $10/$50/M tokens) publicly launches; free through June 22 → [entries/2026-06-10.md](entries/2026-06-10.md)
 - **2026-06-08** — Multi-agent adversarial diagnostic pattern ships; Claude Mythos identifier spotted on Anthropic API → [entries/2026-06-08.md](entries/2026-06-08.md)
 - **2026-06-06** — Anthropic S-1 filed at $965B, $2.5B Claude Code run-rate; "Grill Me" skill solves context quality → [entries/2026-06-06.md](entries/2026-06-06.md)
 - **2026-06-05** — Claude authors 80% of Anthropic's production code; Grok Build 0.1 at $1/M launches → [entries/2026-06-05.md](entries/2026-06-05.md)
