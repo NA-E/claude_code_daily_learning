@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-06-15** — US Gov suspends Fable 5/Mythos globally; Fable bad at PRDs/design; install Knowledge Work Plugins today → [entries/2026-06-15.md](entries/2026-06-15.md)
 - **2026-06-12** — Cursor Composer 2.5 at $0.44/task vs $4.14 for Claude Code; Anthropic API credits disabled → [entries/2026-06-12.md](entries/2026-06-12.md)
 - **2026-06-11** — Claude Fable 5 live at $10/$50/M tokens; Fable audits your CLAUDE.md for weaker-model anchors → [entries/2026-06-11.md](entries/2026-06-11.md)
 - **2026-06-08** — Multi-agent adversarial diagnostic pattern ships; Claude Mythos identifier spotted on Anthropic API → [entries/2026-06-08.md](entries/2026-06-08.md)
