@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-06-18** — GSTACK 97K stars + Paperclip 67K land; Lutnick letter confirms Mythos access bloat; Claude at 6% per Pew → [entries/2026-06-18.md](entries/2026-06-18.md)
 - **2026-06-17** — Fable 5 paused after 6 days; SpaceX acquires Cursor for $60B; Composer 3 at 1.5T params incoming → [entries/2026-06-17.md](entries/2026-06-17.md)
 - **2026-06-12** — Cursor Composer 2.5 at $0.44/task vs $4.14 for Claude Code; Anthropic API credits disabled → [entries/2026-06-12.md](entries/2026-06-12.md)
 - **2026-06-11** — Claude Fable 5 live at $10/$50/M tokens; Fable audits your CLAUDE.md for weaker-model anchors → [entries/2026-06-11.md](entries/2026-06-11.md)
