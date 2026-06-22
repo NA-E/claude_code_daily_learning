@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-06-22** — GLM 5.2 (756B open-weights) runs as Claude Code backend; John Jumper joins Anthropic; Claude 18-37x faster on robot tasks → [entries/2026-06-22.md](entries/2026-06-22.md)
 - **2026-06-20** — Fable 5 DoC shutdown mechanism revealed; Anthropic ToS bans competing-LLM use; CLAUDE.md context-management ladder → [entries/2026-06-20.md](entries/2026-06-20.md)
 - **2026-06-17** — Fable 5 paused after 6 days; SpaceX acquires Cursor for $60B; Composer 3 at 1.5T params incoming → [entries/2026-06-17.md](entries/2026-06-17.md)
 - **2026-06-12** — Cursor Composer 2.5 at $0.44/task vs $4.14 for Claude Code; Anthropic API credits disabled → [entries/2026-06-12.md](entries/2026-06-12.md)
