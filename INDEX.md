@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-06-25** — OpenAI Jalapeño ASIC in 9 months; Claude Tag Ambient Mode at 65% Anthropic code; Fable June 26 deadline → [entries/2026-06-25.md](entries/2026-06-25.md)
 - **2026-06-24** — Claude enters Slack as native coworker; token tightening era begins at Uber/Meta/Amazon/Walmart → [entries/2026-06-24.md](entries/2026-06-24.md)
 - **2026-06-22** — GLM 5.2 (756B open-weights) runs as Claude Code backend; John Jumper joins Anthropic; Claude 18-37x faster on robot tasks → [entries/2026-06-22.md](entries/2026-06-22.md)
 - **2026-06-20** — Fable 5 DoC shutdown mechanism revealed; Anthropic ToS bans competing-LLM use; CLAUDE.md context-management ladder → [entries/2026-06-20.md](entries/2026-06-20.md)
