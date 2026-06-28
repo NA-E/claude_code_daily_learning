@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-06-28** — GPT-5.6 Sol locked to 20 companies; Anthropic PM agent playbook; Claude folder system as prompt → [entries/2026-06-28.md](entries/2026-06-28.md)
 - **2026-06-27** — Anthropic API auto-promoted to higher tier; OpenAI Jalapeño chip built in 9 months by AI → [entries/2026-06-27.md](entries/2026-06-27.md)
 - **2026-06-26** — Loop Engineering named by Claude Code's creator; Claude Tag creates 65% of Anthropic product team code → [entries/2026-06-26.md](entries/2026-06-26.md)
 - **2026-06-24** — Claude enters Slack as native coworker; token tightening era begins at Uber/Meta/Amazon/Walmart → [entries/2026-06-24.md](entries/2026-06-24.md)
