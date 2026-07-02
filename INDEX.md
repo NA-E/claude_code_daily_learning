@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-07-02** — Fable 5's official relaunch + 6 operator prompting rules; 5 days left before July 7 metering → [entries/2026-07-02.md](entries/2026-07-02.md)
 - **2026-07-01** — Sonnet 5 ships as Fable 5/Mythos 5 return; Loop Engineering gets its first stopping-condition playbook → [entries/2026-07-01.md](entries/2026-07-01.md)
 - **2026-06-30** — Boris Cherny's 5 AI-era archetypes; AI kills billable hour; Meta Brain2Qwerty hits 61% → [entries/2026-06-30.md](entries/2026-06-30.md)
 - **2026-06-29** — Anthropic hits $47B ARR; GLM-5.2 exact setup in Claude Code; tokenmaxxing era ends → [entries/2026-06-29.md](entries/2026-06-29.md)
