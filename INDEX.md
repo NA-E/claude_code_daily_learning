@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-07-08** — Anthropic's own account extends Fable 5 access to July 12; own client-nudge cron broken 4 days → [entries/2026-07-08.md](entries/2026-07-08.md)
 - **2026-07-06** — Non-marketing source confirms Fable 5 access changes "after July 7"; CreativeOS productizes brand memory → [entries/2026-07-06.md](entries/2026-07-06.md)
 - **2026-07-05** — Own Knwn-Local-App cron broke; Fable 5 date lands "tomorrow"; Codex PM workflows from OpenAI's own team → [entries/2026-07-05.md](entries/2026-07-05.md)
 - **2026-07-04** — Sonnet 5's $2/$10 pricing ends Aug 31; Claude Science launches; a third conflicting Fable 5 deadline emerges → [entries/2026-07-04.md](entries/2026-07-04.md)
