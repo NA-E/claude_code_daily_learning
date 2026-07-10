@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-07-10** — Fable-5 saga's cause revealed: US export-control order, not a subscription change; CreativeOS growth stalls → [entries/2026-07-10.md](entries/2026-07-10.md)
 - **2026-07-09** — GPT-5.6 goes fully public; Fable 5.1 scoop emerges; your own Every.to source cancelled → [entries/2026-07-09.md](entries/2026-07-09.md)
 - **2026-07-08** — Anthropic's own account extends Fable 5 access to July 12; own client-nudge cron broken 4 days → [entries/2026-07-08.md](entries/2026-07-08.md)
 - **2026-07-06** — Non-marketing source confirms Fable 5 access changes "after July 7"; CreativeOS productizes brand memory → [entries/2026-07-06.md](entries/2026-07-06.md)
