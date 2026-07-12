@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-07-12** — Grok 4.5 + GPT-5.6 Sol crowd the routing tree; Knwn-Local-App cron fails a 4th time in 8 days → [entries/2026-07-12.md](entries/2026-07-12.md)
 - **2026-07-11** — Fable-5 uncapped window closes tomorrow; PwC prefix caching cuts cost 80%; second self-mailed Claude digest found stale → [entries/2026-07-11.md](entries/2026-07-11.md)
 - **2026-07-10** — Fable-5 saga's cause revealed: US export-control order, not a subscription change; CreativeOS growth stalls → [entries/2026-07-10.md](entries/2026-07-10.md)
 - **2026-07-09** — GPT-5.6 goes fully public; Fable 5.1 scoop emerges; your own Every.to source cancelled → [entries/2026-07-09.md](entries/2026-07-09.md)
