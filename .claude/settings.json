@@ -1,16 +1,31 @@
 {
+  "enableAllProjectMcpServers": true,
   "permissions": {
     "allow": [
-      "mcp__journal__get_style_guide",
-      "mcp__journal__get_examples",
-      "mcp__journal__suggest_next_issue",
-      "mcp__journal__create_draft",
-      "mcp__journal__check_draft",
-      "mcp__journal__publish_post",
-      "mcp__journal__list_posts",
-      "mcp__journal__get_post",
-      "mcp__journal__update_post",
-      "mcp__journal__unpublish_post"
+      "mcp__journal",
+      "WebSearch",
+      "WebFetch",
+      "Read",
+      "Glob",
+      "Grep",
+      "Write",
+      "Edit",
+      "TodoWrite",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git show:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git pull:*)",
+      "Bash(git fetch:*)",
+      "Bash(git checkout:*)",
+      "Bash(git branch:*)",
+      "Bash(git rev-parse:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(date:*)"
     ]
   }
 }
