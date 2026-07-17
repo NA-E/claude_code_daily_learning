@@ -3,6 +3,16 @@
   "permissions": {
     "allow": [
       "mcp__journal",
+      "mcp__journal__get_style_guide",
+      "mcp__journal__get_examples",
+      "mcp__journal__suggest_next_issue",
+      "mcp__journal__create_draft",
+      "mcp__journal__check_draft",
+      "mcp__journal__publish_post",
+      "mcp__journal__list_posts",
+      "mcp__journal__get_post",
+      "mcp__journal__update_post",
+      "mcp__journal__unpublish_post",
       "WebSearch",
       "WebFetch",
       "Read",
