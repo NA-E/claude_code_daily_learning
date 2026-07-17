@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-07-17** — "Harness" becomes the term of art in 18 hours; Munich court makes Google liable for AI Overviews → [entries/2026-07-17.md](entries/2026-07-17.md)
 - **2026-07-16** — Cron fails 6th time, same clock minute daily; "Loop Engineering" exposes this routine's own missing step → [entries/2026-07-16.md](entries/2026-07-16.md)
 - **2026-07-12** — Grok 4.5 + GPT-5.6 Sol crowd the routing tree; Knwn-Local-App cron fails a 4th time in 8 days → [entries/2026-07-12.md](entries/2026-07-12.md)
 - **2026-07-11** — Fable-5 uncapped window closes tomorrow; PwC prefix caching cuts cost 80%; second self-mailed Claude digest found stale → [entries/2026-07-11.md](entries/2026-07-11.md)
