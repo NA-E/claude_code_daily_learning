@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-07-24** — PR backlog corrected: 35 of 75 days missing (not 8); OpenAI confirms it hacked Hugging Face → [entries/2026-07-24.md](entries/2026-07-24.md)
 - **2026-07-23** — Routine's own PR backlog found: 10 digests since June 14 never merged to main → [entries/2026-07-23.md](entries/2026-07-23.md)
 - **2026-07-22** — Claude Kit v4 open-sources a ready-made Verification gate; Stripe's Minions land 1,300 PRs/week → [entries/2026-07-22.md](entries/2026-07-22.md)
 - **2026-07-21** — Fable 5 saga closes: permanent Max/Team Premium tier; Fable 5 disproves 1939 Jacobian conjecture → [entries/2026-07-21.md](entries/2026-07-21.md)
