@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-07-26** — Thinnest Sunday yet (31 emails); loop-engineering `/goal` prompt; PR backlog unmoved 3rd day → [entries/2026-07-26.md](entries/2026-07-26.md)
 - **2026-07-25** — Claude Opus 5 launches at half Fable 5's price; White House readies 30-day frontier model review → [entries/2026-07-25.md](entries/2026-07-25.md)
 - **2026-07-24** — PR backlog corrected: 35 of 75 days missing (not 8); OpenAI confirms it hacked Hugging Face → [entries/2026-07-24.md](entries/2026-07-24.md)
 - **2026-07-23** — Routine's own PR backlog found: 10 digests since June 14 never merged to main → [entries/2026-07-23.md](entries/2026-07-23.md)
