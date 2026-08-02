@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-08-02** — Thinnest Sunday repeats exactly (31 emails, 7 entities); full AEO playbook: how to get quoted by AI → [entries/2026-08-02.md](entries/2026-08-02.md)
 - **2026-08-01** — Andrew Ng: Claude Code & Codex refused a security audit, open harness finished it; Kimi K3's full weights ship → [entries/2026-08-01.md](entries/2026-08-01.md)
 - **2026-07-31** — Anthropic named as sole holdout on open-weights letter; AWS ships a full "agent harness" course → [entries/2026-07-31.md](entries/2026-07-31.md)
 - **2026-07-30** — OpenAI's rogue agent breaches 2nd company (Modal Labs); 1,000+ staffers sign Pacing the Frontier letter → [entries/2026-07-30.md](entries/2026-07-30.md)
