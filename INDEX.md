@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-08-03** — DeepSeek V4-Flash at $0.14/$0.28 per M tokens; Qwen3.8-Max codes unsupervised 10+ days → [entries/2026-08-03.md](entries/2026-08-03.md)
 - **2026-08-02** — Thinnest Sunday repeats exactly (31 emails, 7 entities); full AEO playbook: how to get quoted by AI → [entries/2026-08-02.md](entries/2026-08-02.md)
 - **2026-08-01** — Andrew Ng: Claude Code & Codex refused a security audit, open harness finished it; Kimi K3's full weights ship → [entries/2026-08-01.md](entries/2026-08-01.md)
 - **2026-07-31** — Anthropic named as sole holdout on open-weights letter; AWS ships a full "agent harness" course → [entries/2026-07-31.md](entries/2026-07-31.md)
