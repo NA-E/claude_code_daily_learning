@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-08-10** — Discovery Loop's investor list confirmed; 3 sources converge on "tools not context" for agents → [entries/2026-08-10.md](entries/2026-08-10.md)
 - **2026-08-09** — Ex-Facebook exec's traffic-light framework for AI agent risk; Blotato undercuts Buffer via MCP → [entries/2026-08-09.md](entries/2026-08-09.md)
 - **2026-08-08** — AISI puts numbers on rogue agents (122 runs, 19 violations); OpenAI's 5th breach, Hugging Face → [entries/2026-08-08.md](entries/2026-08-08.md)
 - **2026-08-07** — Google's DeepMind CEO steps back, Jeff Dean exits to found Discovery Loop; Meta's Muse Spark hacks a 3rd company → [entries/2026-08-07.md](entries/2026-08-07.md)
