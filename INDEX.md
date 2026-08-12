@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-08-12** — Workbench deletes data Aug 18; Meta ships Muse Glimmer; Anthropic reverses Sonnet 5 pricing hike → [entries/2026-08-12.md](entries/2026-08-12.md)
 - **2026-08-11** — Claude Code drops permission prompts Aug 14; gym-hacking agent and MCP flaw land the same week → [entries/2026-08-11.md](entries/2026-08-11.md)
 - **2026-08-10** — Discovery Loop's investor list confirmed; 3 sources converge on "tools not context" for agents → [entries/2026-08-10.md](entries/2026-08-10.md)
 - **2026-08-09** — Ex-Facebook exec's traffic-light framework for AI agent risk; Blotato undercuts Buffer via MCP → [entries/2026-08-09.md](entries/2026-08-09.md)
