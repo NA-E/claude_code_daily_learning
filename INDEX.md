@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-08-20** — Anthropic revenue jumps $47B→$65B in 7 weeks; own routine fails 3x on Gmail before this run → [entries/2026-08-20.md](entries/2026-08-20.md)
 - **2026-08-14** — Grok 4.6, Meta Muse Code, Gemini Robotics 2, MiniMax H3 all ship same day; Ng's skills map → [entries/2026-08-14.md](entries/2026-08-14.md)
 - **2026-08-13** — Anthropic's watermark fully specified (EU AI Act, C2PA); permission-prompt deadline hits 1 day out → [entries/2026-08-13.md](entries/2026-08-13.md)
 - **2026-08-12** — Workbench deletes data Aug 18; Meta ships Muse Glimmer; Anthropic reverses Sonnet 5 pricing hike → [entries/2026-08-12.md](entries/2026-08-12.md)
