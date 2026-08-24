@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-08-22** — 17 draft PRs found unmerged on main since June 2; Headway builds healthcare AI on Claude Code SDK → [entries/2026-08-22.md](entries/2026-08-22.md)
 - **2026-08-21** — Anthropic's Q2 revenue beats OpenAI outright ($11.6B vs $6.7B); Claude hits 14/15 on protein design → [entries/2026-08-21.md](entries/2026-08-21.md)
 - **2026-08-20** — Anthropic revenue jumps $47B→$65B in 7 weeks; own routine fails 3x on Gmail before this run → [entries/2026-08-20.md](entries/2026-08-20.md)
 - **2026-08-14** — Grok 4.6, Meta Muse Code, Gemini Robotics 2, MiniMax H3 all ship same day; Ng's skills map → [entries/2026-08-14.md](entries/2026-08-14.md)
