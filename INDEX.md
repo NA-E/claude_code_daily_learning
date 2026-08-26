@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-08-26** — Knwn-Local-App cron fails on the same commit two days straight; "harness" gets its own CXO summit → [entries/2026-08-26.md](entries/2026-08-26.md)
 - **2026-08-25** — Anthropic's IPO story hits 3rd confirmation ($2T); OpenRouter confirms Stripe deal directly → [entries/2026-08-25.md](entries/2026-08-25.md)
 - **2026-08-24** — Branch protection lifted: 3-day PR backlog closed, direct push to main confirmed working → [entries/2026-08-24.md](entries/2026-08-24.md)
 - **2026-08-23** — Repo's own PR backlog confirmed at 30 open PRs since May 15; Stripe buys OpenRouter for $8B+ → [entries/2026-08-23.md](entries/2026-08-23.md)
