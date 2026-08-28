@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-08-28** — Knwn-Local-App cron fails 4th straight time; Tau teardown shows harness is 95% of an agent → [entries/2026-08-28.md](entries/2026-08-28.md)
 - **2026-08-27** — Knwn-Local-App cron fails 3rd straight day, same commit; Anthropic claims $30T IPO market → [entries/2026-08-27.md](entries/2026-08-27.md)
 - **2026-08-26** — Knwn-Local-App cron fails on the same commit two days straight; "harness" gets its own CXO summit → [entries/2026-08-26.md](entries/2026-08-26.md)
 - **2026-08-25** — Anthropic's IPO story hits 3rd confirmation ($2T); OpenRouter confirms Stripe deal directly → [entries/2026-08-25.md](entries/2026-08-25.md)
