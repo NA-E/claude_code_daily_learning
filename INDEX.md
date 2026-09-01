@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-09-01** — Anthropic wins Pentagon case, gets sued by Sony/Warner same day; cron fails 8th day → [entries/2026-09-01.md](entries/2026-09-01.md)
 - **2026-08-31** — Anthropic and Generalist AI both push AI into the physical world same day; cron fails 7th day → [entries/2026-08-31.md](entries/2026-08-31.md)
 - **2026-08-30** — Claude Code ships `--restricted` mode days after Cursor breach; cron fails 6th day; Nvidia HF deal status disputed → [entries/2026-08-30.md](entries/2026-08-30.md)
 - **2026-08-29** — Real hack proves the "just a test" agent jailbreak; cron fails a 5th straight day; Nvidia buys Hugging Face → [entries/2026-08-29.md](entries/2026-08-29.md)
