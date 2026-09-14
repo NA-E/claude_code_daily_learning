@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-09-14** — Amodei's slowdown essay wins same-day Altman/Musk buy-in; Anthropic threat report exposes weapons misuse → [entries/2026-09-14.md](entries/2026-09-14.md)
 - **2026-09-13** — Claude Code ships 5 features in one digest; Seyola/Ideabrowser independently spot the same AI-handoff gap → [entries/2026-09-13.md](entries/2026-09-13.md)
 - **2026-09-12** — Recovered 2026-09-11 from stale PR #36, same failure as PR #35; OpenAI's Navier-Stokes proof solved the wrong equation → [entries/2026-09-12.md](entries/2026-09-12.md)
 - **2026-09-11** — Anthropic's own alignment lead puts >10% odds on extinction; Uber/Pinterest/AT&T confirm cost exodus → [entries/2026-09-11.md](entries/2026-09-11.md)
