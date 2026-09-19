@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-09-19** — Client Nudge Cron fails 3rd straight day, same commit; OpenAI's 10K-agent swarm hides its reasoning → [entries/2026-09-19.md](entries/2026-09-19.md)
 - **2026-09-18** — Zuckerberg breaks ranks on AI slowdown; Claude merges Cowork, ships Docs/Slides → [entries/2026-09-18.md](entries/2026-09-18.md)
 - **2026-09-17** — "Beltdown" Claude Code sandbox escape patched; TypeSafe's Jev undercuts Fable 5.1 pricing 238x → [entries/2026-09-17.md](entries/2026-09-17.md)
 - **2026-09-16** — Own Lead Analysis Workflow fails a 3rd time, fix from yesterday never applied; Trump calls slowdown a "HOAX" → [entries/2026-09-16.md](entries/2026-09-16.md)
