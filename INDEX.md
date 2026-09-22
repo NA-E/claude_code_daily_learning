@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-09-22** — Client Nudge Cron's 5-day failure streak goes silent; Hacktron breaches OpenAI via Claude in 72hrs → [entries/2026-09-22.md](entries/2026-09-22.md)
 - **2026-09-21** — Cron fails a 5th day; routine tries to file the fix itself, blocked by its own GitHub repo scope → [entries/2026-09-21.md](entries/2026-09-21.md)
 - **2026-09-20** — Client Nudge Cron fails 4th straight day; 2nd Anthropic safety researcher quits for METR → [entries/2026-09-20.md](entries/2026-09-20.md)
 - **2026-09-19** — Client Nudge Cron fails 3rd straight day, same commit; OpenAI's 10K-agent swarm hides its reasoning → [entries/2026-09-19.md](entries/2026-09-19.md)
