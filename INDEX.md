@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-09-25** — Routine self-corrected its own 4-day silent git bug; Anthropic's 950-agent swarm finds new gene-editing system → [entries/2026-09-25.md](entries/2026-09-25.md)
 - **2026-09-24** — Opus 5.5/GPT-6 Sol price war cools into cost-per-task math; CoreWeave, AX, Tau converge on "harness matters" → [entries/2026-09-24.md](entries/2026-09-24.md)
 - **2026-09-23** — Opus 5.5 and GPT-6 Sol/Luna launch within 90 minutes of each other; Jev's Vercel adoption 2x any prior launch → [entries/2026-09-23.md](entries/2026-09-23.md)
 - **2026-09-22** — Client Nudge Cron's 5-day failure streak goes silent; Hacktron breaches OpenAI via Claude in 72hrs → [entries/2026-09-22.md](entries/2026-09-22.md)
