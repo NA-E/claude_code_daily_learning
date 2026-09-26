@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-09-26** — Google, OpenAI, Anthropic all breached via same Irregular test env; Meta puts Muse on a keychain → [entries/2026-09-26.md](entries/2026-09-26.md)
 - **2026-09-25** — Routine self-corrected its own 4-day silent git bug; Anthropic's 950-agent swarm finds new gene-editing system → [entries/2026-09-25.md](entries/2026-09-25.md)
 - **2026-09-24** — Opus 5.5/GPT-6 Sol price war cools into cost-per-task math; CoreWeave, AX, Tau converge on "harness matters" → [entries/2026-09-24.md](entries/2026-09-24.md)
 - **2026-09-23** — Opus 5.5 and GPT-6 Sol/Luna launch within 90 minutes of each other; Jev's Vercel adoption 2x any prior launch → [entries/2026-09-23.md](entries/2026-09-23.md)
