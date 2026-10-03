@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-10-03** — Claude Code mods ship in v2.1.287; claim cloud credit by Oct 7; chipmakers buy labs for $21B → [entries/2026-10-03.md](entries/2026-10-03.md)
 - **2026-10-02** — Anthropic study: open GLM-5.3 nearly matches Mythos at exploits; Xiaomi's MiMo tops open models → [entries/2026-10-02.md](entries/2026-10-02.md)
 - **2026-10-01** — Anthropic IPO prospectus leaks (12x revenue, $2T+ target); OpenRouter's Jev Router picks model per turn → [entries/2026-10-01.md](entries/2026-10-01.md)
 - **2026-09-30** — OpenAI DevDay's 20+ launches; custom GPTs retire Dec 11 into open skills; Jev gets a rival → [entries/2026-09-30.md](entries/2026-09-30.md)
