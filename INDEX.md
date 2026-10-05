@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-10-05** — Cowork local-only tasks deprecated Oct 6; a16z: only 2% of firms track AI metrics → [entries/2026-10-05.md](entries/2026-10-05.md)
 - **2026-10-04** — Jev front-door routing sorts 1,700 emails for 18 cents; Cowork tasks go cloud-default Oct 6 → [entries/2026-10-04.md](entries/2026-10-04.md)
 - **2026-10-03** — Claude Code mods ship in v2.1.287; claim cloud credit by Oct 7; chipmakers buy labs for $21B → [entries/2026-10-03.md](entries/2026-10-03.md)
 - **2026-10-02** — Anthropic study: open GLM-5.3 nearly matches Mythos at exploits; Xiaomi's MiMo tops open models → [entries/2026-10-02.md](entries/2026-10-02.md)
