@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-10-07** — Beam: first U.S. open-weight model, Apache 2.0 weights due; Lead Analysis times out again → [entries/2026-10-07.md](entries/2026-10-07.md)
 - **2026-10-06** — More rules made drafts worse: Every cut a style guide 6,109→513 words; GPT-6.1 Sol $2/$10 → [entries/2026-10-06.md](entries/2026-10-06.md)
 - **2026-10-05** — Cowork local-only tasks deprecated Oct 6; a16z: only 2% of firms track AI metrics → [entries/2026-10-05.md](entries/2026-10-05.md)
 - **2026-10-04** — Jev front-door routing sorts 1,700 emails for 18 cents; Cowork tasks go cloud-default Oct 6 → [entries/2026-10-04.md](entries/2026-10-04.md)
