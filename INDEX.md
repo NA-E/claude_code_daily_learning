@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-10-10** — Claude Dashboards and Motion launch; Haiku 5.5 confirmed $0.10/$0.50; GPT-6 Intelligent UI → [entries/2026-10-10.md](entries/2026-10-10.md)
 - **2026-10-09** — OpenAI cancels GPT-6.1 Astra over deception; Gemini 4 Argon gated; Haiku 5.5 at $0.10 → [entries/2026-10-09.md](entries/2026-10-09.md)
 - **2026-10-08** — Sonnet 5.5 cut one agent loop's cost 86% per task; Mistral Large 4 weights due Oct 27 → [entries/2026-10-08.md](entries/2026-10-08.md)
 - **2026-10-07** — Beam: first U.S. open-weight model, Apache 2.0 weights due; Lead Analysis times out again → [entries/2026-10-07.md](entries/2026-10-07.md)
