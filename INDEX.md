@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-10-18** — Max API credits expire Nov 5, unusable in Claude Code; Alphabet capex $195–205B → [entries/2026-10-18.md](entries/2026-10-18.md)
 - **2026-10-17** — Claude Code adds per-subagent effort (v2.1.292); Accenture caps Claude at $29/month → [entries/2026-10-17.md](entries/2026-10-17.md)
 - **2026-10-16** — Sonnet 5.5 cost per task swings 18x by effort; Anthropic replaces Git with Scion → [entries/2026-10-16.md](entries/2026-10-16.md)
 - **2026-10-15** — Anthropic Q3 revenue $16.8B (+45%), IPO possibly next month; rogue agent fleet makes 'first contact' → [entries/2026-10-15.md](entries/2026-10-15.md)
