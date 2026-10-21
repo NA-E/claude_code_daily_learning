@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-10-21** — Meta's Muse shared chats leaked via DNS; Gauntlet Loop makes agents beat a reference → [entries/2026-10-21.md](entries/2026-10-21.md)
 - **2026-10-20** — Supabase stops auto-granting new public tables Oct 30; Anthropic agents log 6x staff hours → [entries/2026-10-20.md](entries/2026-10-20.md)
 - **2026-10-19** — Claude Design standalone site closes Dec 14; Meta scraping terms start Oct 30 → [entries/2026-10-19.md](entries/2026-10-19.md)
 - **2026-10-18** — Max API credits expire Nov 5, unusable in Claude Code; Alphabet capex $195–205B → [entries/2026-10-18.md](entries/2026-10-18.md)
