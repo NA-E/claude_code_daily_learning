@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-10-25** — Railway says key revocations are precautionary: fix only revoked keys; PHP flaw exploited within hours → [entries/2026-10-25.md](entries/2026-10-25.md)
 - **2026-10-24** — Railway breach close-out says rotate keys; banks block AI agents; $50 agent breaches → [entries/2026-10-24.md](entries/2026-10-24.md)
 - **2026-10-23** — Etsy restricts AI listings; Beam and Muse Spark Open priced; Anthropic merges 30,000 PRs/day → [entries/2026-10-23.md](entries/2026-10-23.md)
 - **2026-10-22** — Railway env-var breach: rotate keys; Claude Duet always-on agent launches in preview → [entries/2026-10-22.md](entries/2026-10-22.md)
