@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-11-02** — Max reasoning effort can cost 42x more and fail more; publishers sell ads only agents see → [entries/2026-11-02.md](entries/2026-11-02.md)
 - **2026-11-01** — Anthropic S-1 public: H1 revenue $16.3B, $63B Broadcom financing; Alphabet's worst day → [entries/2026-11-01.md](entries/2026-11-01.md)
 - **2026-10-25** — Railway says key revocations are precautionary: fix only revoked keys; PHP flaw exploited within hours → [entries/2026-10-25.md](entries/2026-10-25.md)
 - **2026-10-24** — Railway breach close-out says rotate keys; banks block AI agents; $50 agent breaches → [entries/2026-10-24.md](entries/2026-10-24.md)
