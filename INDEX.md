@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-11-07** — METR: Anthropic's progress ~2x faster; GPT-6 Cyber scope rates; Nasdaq -5.5% → [entries/2026-11-07.md](entries/2026-11-07.md)
 - **2026-11-06** — Gemini 4 Carbon tops index at lower cost; Meta, OpenAI buy agent-tooling startups → [entries/2026-11-06.md](entries/2026-11-06.md)
 - **2026-11-05** — Human reviewers follow their AI's lean 86% of the time; CrowdStrike ships agent kill switch → [entries/2026-11-05.md](entries/2026-11-05.md)
 - **2026-11-04** — Anthropic S-1/A: $895.4B commitments; agent-only PR review hits 200+/month → [entries/2026-11-04.md](entries/2026-11-04.md)
