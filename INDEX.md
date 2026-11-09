@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-11-09** — Apple cuts engineers' daily AI budget $300 to $200; towns vote 46 of 47 against data centers → [entries/2026-11-09.md](entries/2026-11-09.md)
 - **2026-11-08** — PHP flaws: NSA says patch now; open models match held-back attack tools → [entries/2026-11-08.md](entries/2026-11-08.md)
 - **2026-11-07** — METR: Anthropic's progress ~2x faster; GPT-6 Cyber scope rates; Nasdaq -5.5% → [entries/2026-11-07.md](entries/2026-11-07.md)
 - **2026-11-06** — Gemini 4 Carbon tops index at lower cost; Meta, OpenAI buy agent-tooling startups → [entries/2026-11-06.md](entries/2026-11-06.md)
