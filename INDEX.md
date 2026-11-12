@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-11-12** — Claude adds Meetings, Sheets; Anthropic IPO priced $70–$78; Gemini Carbon $2/$10 → [entries/2026-11-12.md](entries/2026-11-12.md)
 - **2026-11-11** — Fable 5.2 costs $8/$40, 2x Opus; Max effort scores lower → [entries/2026-11-11.md](entries/2026-11-11.md)
 - **2026-11-10** — Fable 5.2 ships for overnight jobs; Anthropic reportedly buys $3.4B generators → [entries/2026-11-10.md](entries/2026-11-10.md)
 - **2026-11-09** — Apple cuts engineers' daily AI budget $300 to $200; towns vote 46 of 47 against data centers → [entries/2026-11-09.md](entries/2026-11-09.md)
