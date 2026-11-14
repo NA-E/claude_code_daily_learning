@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-11-14** — Huang quits Nvidia; Anthropic: one coordinator beats per-user agents, 64% vs 30% → [entries/2026-11-14.md](entries/2026-11-14.md)
 - **2026-11-13** — incident.io cuts AI spend to $1,600/engineer; GPT-6 Cyber patches 948 Linux flaws → [entries/2026-11-13.md](entries/2026-11-13.md)
 - **2026-11-12** — Claude adds Meetings, Sheets; Anthropic IPO priced $70–$78; Gemini Carbon $2/$10 → [entries/2026-11-12.md](entries/2026-11-12.md)
 - **2026-11-11** — Fable 5.2 costs $8/$40, 2x Opus; Max effort scores lower → [entries/2026-11-11.md](entries/2026-11-11.md)
