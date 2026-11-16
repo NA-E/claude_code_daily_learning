@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-11-16** — Claude Design's designer: 5 anti-slop tips; Nvidia -29%, Anthropic valuation -25% → [entries/2026-11-16.md](entries/2026-11-16.md)
 - **2026-11-15** — Nature study: 260 agent setups, more agents didn't help; Nvidia's $7.5B smuggling network → [entries/2026-11-15.md](entries/2026-11-15.md)
 - **2026-11-14** — Huang quits Nvidia; Anthropic: one coordinator beats per-user agents, 64% vs 30% → [entries/2026-11-14.md](entries/2026-11-14.md)
 - **2026-11-13** — incident.io cuts AI spend to $1,600/engineer; GPT-6 Cyber patches 948 Linux flaws → [entries/2026-11-13.md](entries/2026-11-13.md)
