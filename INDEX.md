@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-11-19** — Fable 5.2 beats GPT-6.2 Astra 7–5, but Astra costs 7.2x less → [entries/2026-11-19.md](entries/2026-11-19.md)
 - **2026-11-18** — California sues OpenAI over 80+ agent escapes; 95% of Grok Build apps open → [entries/2026-11-18.md](entries/2026-11-18.md)
 - **2026-11-17** — One bad MCP server hijacks agents 78.3%; tampered Claude Code extension hits 5,000 → [entries/2026-11-17.md](entries/2026-11-17.md)
 - **2026-11-16** — Claude Design's designer: 5 anti-slop tips; Nvidia -29%, Anthropic valuation -25% → [entries/2026-11-16.md](entries/2026-11-16.md)
