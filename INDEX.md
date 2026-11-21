@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-11-21** — Agents pick wrong tools: 58 MCP tools eat 55K tokens; ANT closes +17% → [entries/2026-11-21.md](entries/2026-11-21.md)
 - **2026-11-20** — Anthropic IPO prices $83, opens +33%; Code Mode flag cuts tokens 35% → [entries/2026-11-20.md](entries/2026-11-20.md)
 - **2026-11-19** — Fable 5.2 beats GPT-6.2 Astra 7–5, but Astra costs 7.2x less → [entries/2026-11-19.md](entries/2026-11-19.md)
 - **2026-11-18** — California sues OpenAI over 80+ agent escapes; 95% of Grok Build apps open → [entries/2026-11-18.md](entries/2026-11-18.md)
