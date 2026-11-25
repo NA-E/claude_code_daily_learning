@@ -4,6 +4,7 @@ A running log of daily AI learning digests, generated autonomously by a Claude C
 
 ## Entries
 
+- **2026-11-25** — Claude Ship approves PRs; Google mandates MCP for Workspace agents by Feb 1 → [entries/2026-11-25.md](entries/2026-11-25.md)
 - **2026-11-24** — Lean certifies Claude's Riemann proof; 3 inference providers caught reading prompts → [entries/2026-11-24.md](entries/2026-11-24.md)
 - **2026-11-23** — Anthropic mathematician claims Riemann proof with Claude; founders sold $280M each → [entries/2026-11-23.md](entries/2026-11-23.md)
 - **2026-11-22** — ANT slides 8% to near its $83 IPO price; Fable 5.2 ~8% better at code → [entries/2026-11-22.md](entries/2026-11-22.md)
